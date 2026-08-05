@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Dream School Timetable</title>
+</head>
+
+<body>
+    <h1>~DREAM SCHOOL TIMETABLE~</h1>
+
+    <h2>Welcome to My Dream School Timetable</h2>
+
+    <p>Welcome to my dream school! It is a place where learning is exciting, students feel safe, and everyone is
+        encouraged to
+        achieve their best. My dream school has modern classrooms, friendly teachers, and many opportunities to learn
+        new
+        skills. This dream school timetable shares my morning routine, useful learning websites, favourite subjects, weekly timetable,
+        and
+        favourite school activities that could also wbe helpful to some of the students around.</p>
+    <p>I am currently studying Financing, Arts and Web Development. So in Order to balance out my Daily routine Smoothly
+        I made this Timetable.</p>
+
+    <h4>Here Are Some Of the Tips You can Use To make you're Dream timetable as well as you're dream life.</h4>
+
+    <h2>Useful Links</h2>
+    <p> -This are some of my favourite websites to learn and study samrtly...meaning that they can help one to be ahead
+        and achieve good results.</p>
+    <ul>
+        <li><a href="https://www.khanacademy.org">Khan Academy</a>For Smart Learning and Notes.</li>
+        <li><a href="https://www.w3schools.com">W3Schools</a> for IT &
+            Web Development purposes.</li>
+        <li><a href="https://www.codecademy.com">Codecademy</a> for Coding Practice.</li>
+        <li><a href="https://www.tutor2u.net/economics">Tutor2U Economics</a> for Economics Learning.</li>
+        <li><a href="https://www.pinterest.com">Pinterest</a> for Inspiration and artistic Ideas.</li>
+        <li><a href="https://www.youtube.com">Youtube</a> for Educational Videos.</li>
+        <li><a href="https://www.ck12.org/">CK-12 Foundation</a> for Free Educational Resources and mathematics guide.
+        </li>
+        <li><a href="https://www.savemyexams.com/">Save My Exams</a> for Smart Exam Preparation.<b>One of my
+                favourites...</b></li>.
+
+    </ul>
+
+    <h2>My Daily Routine</h2>
+
+    <p>-I believe that having a daily routine helps me stay organized, productive, and healthy. Every day, I balance my
+        studies, responsibilities, family time, relaxation, and spiritual growth.</p>
+
+    <ol>
+        <li><b>6:00 AM - Wake Up</b>
+            <p>I wake up early, thank God for a new day, make my bed, brush my teeth, take a shower, and get dressed in
+                my
+                school uniform.</p>
+        </li>
+
+        <li><b>6:30 AM - Breakfast</b>
+            <p>I enjoy a healthy breakfast to give me energy for the day ahead.</p>
+        </li>
+
+        <li><b>6:45 AM - Prepare for School</b>
+            <p>I pack my school bag, check that I have all my books and stationery, and get ready to leave for school.
+            </p>
+        </li>
+
+        <li><b>7:00 AM - Travel to School</b>
+            <p>I leave for school feeling excited to learn something new.</p>
+        </li>
+
+        <li><b>7:30 AM - 3:00 PM - School</b>
+            <p>At school, I attend lessons, complete classwork, participate in activities, and spend time with my
+                friends.
+                My favourite subjects include Mathematics, Physics, Accounting, Economics, Business Studies, English,
+                and
+                ICT.</p>
+        </li>
+
+        <li><b>3:00 PM - Relax</b>
+            <p>After arriving home, I spend one hour relaxing. I may eat a snack, watch television, or play games to
+                refresh
+                my mind after school.</p>
+        </li>
+
+        <li><b>4:00 PM - 6:00 PM - Productive Learning</b>
+            <p>I spend two hours doing activities that exercise my brain. I may revise school work, practise
+                Mathematics,
+                improve my coding skills, read books, or learn something new online. During this time, I take two to
+                four
+                short breaks of about ten minutes each.</p>
+        </li>
+
+        <li><b>6:00 PM - Help Prepare Dinner</b>
+            <p>I help my mother prepare dinner. Cooking together teaches me responsibility and allows me to learn
+                something
+                new every day.</p>
+        </li>
+
+        <li><b>6:45 PM - Visit the Temple</b>
+            <p>I visit the temple until 8:00 PM, where I pray, reflect, attend spiritual classes and thank God for His
+                blessings.</p>
+        </li>
+
+        <li><b>8:00 PM - Dinner</b>
+            <p>I enjoy dinner with my family.</p>
+        </li>
+
+        <li><b>8:15 PM - Household Chores</b>
+            <p>After dinner, I help wash the dishes and clean the kitchen.</p>
+        </li>
+
+        <li><b>8:30 PM - Homework</b>
+            <p>I spend about thirty minutes completing my homework and revising what I learned at school.</p>
+        </li>
+
+        <li><b>9:00 PM - Prepare for Tomorrow</b>
+            <p>I pack my school bag, arrange my school uniform, and make sure everything is ready for the next day.</p>
+        </li>
+
+        <li><b>9:15 PM - Bedtime</b>
+            <p>Before sleeping, I think about my day and thank God for His guidance, blessings, and protection. Then I
+                go to
+                sleep, ready for another day of my life.</p>
+        </li>
+    </ol>
+
+    <h2>Dream School Features</h2>
+    
+    <p>My dream school would have many amazing facilities, including:</p>
+    
+    <ul>
+        <li>Smart classrooms with interactive whiteboards.</li>
+        <li>A modern computer laboratory.</li>
+        <li>A large library with thousands of books.</li>
+        <li>Well-equipped science laboratories.</li>
+        <li>A robotics and coding club.</li>
+        <li>A music and dance studio.</li>
+        <li>A beautiful art room.</li>
+        <li>A large football field and sports complex.</li>
+        <li>A swimming pool.</li>
+        <li>Healthy meals served in the cafeteria.</li>
+        <li>Fast Wi-Fi throughout the school.</li>
+        <li>Friendly and supportive teachers.</li>
+    </ul>
+
+    <h2>My Favourite Subjects</h2>
+
+    <ul>
+
+        <li><b>Mathematics</b></li>
+        <p>Mathematics helps me develop problem-solving and logical thinking skills. I enjoy solving puzzles, working
+            with numbers,
+            and learning new methods to answer challenging questions.</p>
+
+        <li><b>Physics</b></li>
+        <p>Physics helps me understand the natural world and the laws that govern it. I enjoy conducting experiments and
+            solving problems related to motion, energy, and forces.</p>
+
+        <li><b>Accounting</b></li>
+        <p>Accounting teaches me how to record, summarize, and report financial information. I find it interesting to
+            analyze business transactions and understand their impact on the bottom line.</p>
+
+        <li><b>Economics</b></li>
+        <p>Economics helps me understand how markets work, how resources are allocated, and how policies can affect
+            economic outcomes. I enjoy exploring real-world applications of economic theories.</p>
+
+        <li><b>Business Studies</b></li>
+        <p>Business Studies helps me understand the principles of business management and entrepreneurship. I enjoy
+            learning about market strategies, financial planning, and leadership skills.</p>
+
+        <li><b>English</b></li>
+        <p>English helps me develop strong communication and critical thinking skills. I enjoy reading literature,
+            writing essays, and participating in discussions.</p>
+
+        <li><b>ICT</b></li>
+        <p>ICT (Information and Communication Technology) helps me develop digital literacy and technical skills. I
+            enjoy learning about software applications, programming, and online research.</p>
+    </ul>
+
+    <h2>Weekly School Timetable</h2>
+    <table border="1">
+        <tr>
+            <th>Time</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
+        <tr>
+            <td>8:00am-8:50am</td>
+            <td>Mathematics</td>
+            <td>Physics</td>
+            <td>Accounting</td>
+            <td>Economics</td>
+            <td>Business Studies</td>
+        </tr>
+        <tr>
+            <td>8:50am-9:40am</td>
+            <td>English</td>
+            <td>ICT</td>
+            <td>Mathematics</td>
+            <td>Physics</td>
+            <td>Accounting</td>
+        </tr>
+        <tr>
+            <td>9:40am-10:00am</td>
+            <td>break</td>
+            <td>break</td>
+            <td>break</td>
+            <td>break</td>
+            <td>break</td>
+        </tr>
+
+        <tr>
+            <td>10:00am-10:50am</td>
+            <td>Economics</td>
+            <td>Business Studies</td>
+            <td>English</td>
+            <td>ICT</td>
+            <td>Mathematics</td>
+        </tr>
+        <tr>
+            <td>10:50am-11:40pm</td>
+            <td>Physics</td>
+            <td>Accounting</td>
+            <td>Economics</td>
+            <td>Business Studies</td>
+            <td>English</td>
+        </tr>
+        <tr>
+            <td>11:40pm-12:30pm</td>
+            <td>ICT</td>
+            <td>Mathematics</td>
+            <td>Physics</td>
+            <td>Accounting</td>
+            <td>Economics</td>
+        </tr>
+        <tr>
+            <td>12:30pm-1:20pm</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+        </tr>
+        <tr>
+            <td>1:20pm-2:10pm</td>
+            <td>Business Studies</td>
+            <td>English</td>
+            <td>ICT</td>
+            <td>Mathematics</td>
+            <td>Physics</td>
+        </tr>
+        <tr>
+            <td>2:10pm-3:00pm</td>
+            <td>Accounting</td>
+            <td>Economics</td>
+            <td>Business Studies</td>
+            <td>English</td>
+            <td>ICT</td>
+    </table>
+
+    <h2>My Favourite Activities.</h2>
+    <table border="1">
+        <tr>
+            <th>Activity</th>
+            <th>Why I Like It.</th>
+        </tr>
+        <tr>
+            <td>Reading Books</td>
+            <td>I like reading books because it helps me learn new things and improves my imagination.</td>
+        </tr>
+        <tr>
+            <td>Coding</td>
+            <td>I like coding because it allows me to create something from scratch and solve interesting problems.</td>
+        </tr>
+        <tr>
+            <td>Playing Sports</td>
+            <td>I like playing sports because it keeps me fit, teaches teamwork, and helps me make friends.</td>
+        </tr>
+        <tr>
+            <td>Listening to Music</td>
+            <td>I like listening to music because it helps me relax and express my emotions.</td>
+        </tr>
+        <tr>
+            <td>Art and Drawing</td>
+            <td>I like art and drawing because it allows me to express my creativity and improve my artistic skills.
+            </td>
+        </tr>
+        <tr>
+            <td>Debate</td>
+            <td>I like debate because it helps me develop critical thinking and public speaking skills.</td>
+        </tr>
+    </table>
+
+    <h2>Conclusion</h2>
+    <p>In conclusion, my dream school timetable is designed to help me balance my studies, responsibilities, and
+        personal growth. By following this routine, I can stay organized, productive, and healthy while pursuing my
+        academic and personal goals.</p>
+
+</body>
+
+</html>
