@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Book Donation Form</title>
+</head>
+
+<body>
+
+    <h1>Book Donation Form</h1>
+
+    <p>Fill in the form below to donate your books!</p>
+
+    <hr>
+
+    <form>
+
+        <fieldset>
+
+            <legend>Donor Details</legend>
+
+            <label>Your Name</label><br>
+            <input type="text" id="name" placeholder="Enter Your Full Name"><br><br>
+
+            <label>Email Address</label><br>
+            <input type="email" id="email" placeholder="Enter Your Email Address"><br><br>
+
+            <label>Phone Number</label><br>
+            <input type="tel" id="phone" placeholder="Enter Your Phone Number"><br><br>
+
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+
+            <legend>Book Details</legend>
+
+            <label>Book Title</label><br>
+            <input type="text" id="Title" placeholder="Enter Your Book Title"><br><br>
+
+            <label>Author Name</label><br>
+            <input type="text" id="author" placeholder="Enter The Author's Name"><br><br>
+
+            <label>Genre</label><br>
+            <input type="text" id="genre" placeholder="Enter Book Genre"><br><br>
+
+            <label>Condition</label><br>
+
+            <select id="condition">
+                <option value="">Select Condition</option>
+                <option value="new">New</option>
+                <option value="good">Good</option>
+                <option value="fair">Fair</option>
+                <option value="poor">Poor</option>
+            </select>
+
+            <br><br>
+
+            <label>Book Category</label><br>
+
+            <select id="category">
+                <option value="">-- Select Category --</option>
+                <option value="fiction">Fiction</option>
+                <option value="science">Science</option>
+                <option value="history">History</option>
+                <option value="education">Education</option>
+                <option value="other">Other</option>
+            </select>
+
+            <br><br>
+
+            <label>Number of Books</label>
+            <br>
+
+            <input type="number" id="books" placeholder="Enter Number of Books">
+
+            <br><br>
+
+            <label>Additional Notes</label><br>
+
+            <textarea id="notes" rows="4" cols="50" placeholder="Any additional information about the book"></textarea>
+
+            <br><br>
+
+        </fieldset>
+
+        <fieldset>
+
+            <legend>Preferred Drop-Off Day</legend>
+
+            <input type="checkbox" value="mon">Monday<br>
+            <input type="checkbox" value="tue">Tuesday<br>
+            <input type="checkbox" value="wed">Wednesday<br>
+            <input type="checkbox" value="thu">Thursday<br>
+            <input type="checkbox" value="fri">Friday<br>
+            <input type="checkbox" value="sat">Saturday<br>
+            <input type="checkbox" value="sun">Sunday<br>
+
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+
+            <legend>Preferred Drop-Off Time</legend>
+
+            <input type="radio" name="time" value="morning">Morning (9 AM - 12 PM)<br>
+            <input type="radio" name="time" value="afternoon">Afternoon (12 PM - 3 PM)<br>
+            <input type="radio" name="time" value="evening">Evening (3 PM - 6 PM)<br>
+
+        </fieldset>
+
+        <fieldset>
+
+            <legend>Any Extra Notes</legend>
+
+            <textarea id="extra-notes" rows="4" cols="35" placeholder="Write any extra info here..."></textarea>
+
+            <br>
+
+        </fieldset>
+
+        <br>
+
+        <input type="submit" value="Donate My Books!">
+
+    </form>
+
+</body>
+
+</html>
