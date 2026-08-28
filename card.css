@@ -1,0 +1,77 @@
+body {
+    background-color: aliceblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card{
+    background: color #fff8ff;
+    width: 600px;
+    padding: 25px;
+    margin: 30px auto;
+    text-align:center;
+    border: 3px solid #8e6bbd
+}
+
+h1 {
+    color: #4b2e68;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    color:#70459a;
+    font-weight: bold;
+}
+
+.intro {
+    color:#70459a;
+    font-weight: bold;
+}
+
+.girl {
+    font-size: 100px;
+    background-color: #eadcff;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.about {
+    background-color: #f3eaff;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+.learning {
+    background-color: #fff0fa;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.skill {
+    display: inline-block;
+    background-color: #e4d2ff;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #4b2e68;
+}
+
+.goals {
+    background-color: #eee2ff;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+li {
+    margin: 8px;
+    color: #50376b;
+}
+
+.quote {
+    color: #70459a;
+    font-weight: bold;
+    font-size: 18px;
+}
