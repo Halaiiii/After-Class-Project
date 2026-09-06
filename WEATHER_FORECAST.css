@@ -1,0 +1,149 @@
+body {
+
+    background-color: lightblue;
+
+    font-family: Arial;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+
+
+/* Main heading */
+
+h1 {
+
+    color: darkblue;
+
+    font-size: 40px;
+
+}
+
+
+/* Weather card */
+
+.weather {
+
+    background-color: white;
+
+    width: 600px;
+
+    padding: 25px;
+
+    margin: 20px auto;
+
+    border: 3px solid blue;
+
+    border-radius: 20px;
+
+}
+
+
+/* Temperature */
+
+.weather h3 {
+
+    color: darkblue;
+
+    font-size: 60px;
+
+}
+
+
+/* Floating sun */
+
+.sun {
+
+    font-size: 70px;
+
+    animation: floating 3s infinite;
+
+}
+
+
+/* Animation */
+
+@keyframes floating {
+
+    0% {
+
+        transform: translateY(0px);
+
+    }
+
+    50% {
+
+        transform: translateY(-15px);
+
+    }
+
+    100% {
+
+        transform: translateY(0px);
+
+    }
+
+}
+
+
+/* Forecast */
+
+.forecast {
+
+    width: 1000px;
+
+    margin: auto;
+
+}
+
+
+/* Each day */
+
+.day {
+
+    background-color: white;
+
+    width: 140px;
+
+    padding: 15px;
+
+    margin: 5px;
+
+    display: inline-block;
+
+    border: 2px solid blue;
+
+    border-radius: 15px;
+
+}
+
+
+/* Forecast icons */
+
+.day p {
+
+    font-size: 40px;
+
+}
+
+
+/* Forecast temperature */
+
+.day h3 {
+
+    color: darkblue;
+
+}
+
+
+/* Bottom text */
+
+body>p {
+
+    color: darkblue;
+
+    margin-top: 30px;
+
+}
