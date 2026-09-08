@@ -1,0 +1,116 @@
+body {
+    background-color: #171411;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+.menu {
+    width: 700px;
+    margin: auto;
+    background-color: #211c18;
+    padding: 30px;
+    border: 2px solid #d99a28;
+    box-shadow: 5px 5px 15px black;
+}
+
+h1 {
+    color: #f2b632;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 4px black;
+    margin-bottom: 5px;
+}
+
+.restaurant-name {
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 18px;
+}
+
+.description {
+    color: #d8d1c8;
+    text-align: center;
+    font-style: italic;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+
+.special {
+    background-color: #d99020;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+    box-shadow: 4px 4px 8px black;
+    transform: rotate(-1deg);
+}
+
+.special h2 {
+    color: #171411;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.special h3 {
+    color: black;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.special p {
+    color: #171411;
+    line-height: 1.5;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.heading {
+    color: #f2b632;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
+
+.food {
+    border-bottom: 1px solid #6d542c;
+    padding: 10px 0;
+}
+
+.food h3 {
+    color: white;
+    font-size: 19px;
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+
+.food h3 span {
+    float: right;
+    color: #f2b632;
+}
+
+.food p {
+    color: #d8d1c8;
+    font-size: 15px;
+    line-height: 1.5;
+    text-indent: 15px;
+}
+
+.footer {
+    background-color: #d99020;
+    color: #171411;
+    text-align: center;
+    padding: 20px;
+    margin-top: 35px;
+    box-shadow: 3px 3px 7px black;
+}
+
+.footer p {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
